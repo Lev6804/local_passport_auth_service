@@ -20,7 +20,7 @@ Body:
 ```json
 { "username": "tuvo", "password": "123456" }
 ```
-📸 ![Register](public/results/register.png)
+📸 ![Register](public/results/regist.png)
 
 ---
 
